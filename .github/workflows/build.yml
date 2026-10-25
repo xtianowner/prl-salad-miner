@@ -24,5 +24,5 @@ jobs:
           push: true
           provenance: false
           tags: |
-            ghcr.io/xtianowner/prl-salad-miner:0.51.8-r3
+            ghcr.io/xtianowner/prl-salad-miner:0.51.8-r4
             ghcr.io/xtianowner/prl-salad-miner:latest
